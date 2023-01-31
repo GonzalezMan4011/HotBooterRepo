@@ -3,4 +3,4 @@ A jailbroken iPhone repo for compiled HotBooter builds to be installed on device
 The official source code for HotBooter can be found at https://github.com/GonzalezMan4011/HotBooter.
 
 ## How to add the repo?
-The repo can be added by adding https://gonzalezman4011.github.io/HotBooterRepo/ to your list of sources.
+The repo can be added by adding https://gonzalezman4011.github.io/HotBooterRepo/ to your list of sources with the package manager of your choice.
